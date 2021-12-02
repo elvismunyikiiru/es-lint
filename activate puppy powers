@@ -1,0 +1,19 @@
+elvis munyi kiiru peace iawia
+{
+    "name": "",
+    "short_name": "",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ]
+}
+processGoogleToken({"newToken":"ChAIgPqhjQYQopmP2v3J6aQwEjkArXSQWSAvLd0NA36NB98J1vtNbKE2W3MQBJNQJykART6MohCISkTwca1pY_yEX-0MLMc5xEBpDVE","validLifetimeSecs":300,"freshLifetimeSecs":300,"1p_jar":"2021-12-02-17","pucrd":""});
+love I/O elvo
